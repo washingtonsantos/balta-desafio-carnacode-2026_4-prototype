@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="src/Challenge.cs" />
+    <Project Path="src/Prototype/Prototype.csproj" Id="0d16454d-7449-4a21-8a02-a79849f813ca" />
+  </Folder>
+</Solution>
